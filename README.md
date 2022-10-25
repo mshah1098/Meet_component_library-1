@@ -1,5 +1,4 @@
-# Meet_component_library
-Meet_Shah_Protfolio
+# Meet_Shah_Protfolio
 
 Hi, Welcome to my Protfolio, where I showcased my skills and project.
 Created using HTML5 and CSS3
